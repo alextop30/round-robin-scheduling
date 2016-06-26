@@ -1,0 +1,13 @@
+PROGRAMA  6  -6   4  -8   5  -8   5  -9   4   0   0   0
+PROGRAMB  4 -10   5  -7   5   0   0   0   0   0   0   0 
+PROGRAMC  3 -14   7 -10   9  -7   4   0   0   0   0   0 
+LAMBCHOP  2  -6   8  -7   9  -7   8  -8   3   0   0   0  
+BUFFYTVS  4  -8   6  -9   8 -10   8  -8   2   0   0   0 
+THISPROG  6  -7   3   0   0   0   0   0   0   0   0   0
+YOURPROG  7  -8   2  -9   6  -7   2   0   0   0   0   0 
+LOTSOFIO  2  -9   2  -9   2  -9   2   0   0   0   0   0
+SHORTEST  2   0   0   0   0   0   0   0   0   0   0   0
+HEADACHE  2  -8   3  -8   4  -7   5   0   0   0   0   0
+STARTREK  3  -7   2  -8   5  -8   1   0   0   0   0   0
+LITTLEIO  5  -6   8   0   0   0   0   0   0   0   0   0
+STOPHERE  0   0   0   0   0   0   0   0   0   0   0   0 
